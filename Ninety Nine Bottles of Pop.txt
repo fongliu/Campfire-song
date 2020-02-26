@@ -25,3 +25,19 @@ Guess how many bottles are on the wall.
 99 bottles of lemonade
 If one of those bottles should happen to fall,
 98 bottles of lemonade on the wall.
+
+98 bottles of lemonade on the wall
+98 bottles of lemonade
+If one of those bottles should happen to fall,
+97 bottles of lemonade on the wall.
+
+Now there's only 50 bottles of lemonade on the wall
+after many hours
+If one of these bottles should happen to fall,
+There's 49 bottles of lemonade on the wall.
+
+A few hours later
+There's only one bottle of lemonade on the wall
+One bottle of lemonade
+If the last bottle should happen to fall,
+Guess how many bottles are on the wall.
